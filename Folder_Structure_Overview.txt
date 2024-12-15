@@ -1,0 +1,9 @@
+- main.py: Entry point of the application.
+- config.py: Configuration constants.
+- logger.py: Logging setup.
+- utils.py: Utility functions.
+- browser.py: Browser setup and related functions.
+- image_matcher.py: Image processing and text extraction.
+- search.py: Search operations on Yandex.
+- requirements.txt: List of dependencies.
+- images/: Directory to store images.
