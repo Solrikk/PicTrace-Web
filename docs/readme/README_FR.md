@@ -5,7 +5,7 @@
     <a href="https://github.com/Solrikk/PicTraceV2/blob/main/README.md">Anglais</a> |
     <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_JP.md">Japonais</a> |
     <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_RU.md">Russe</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_FR.md"⭐>Français⭐</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_FR.md">⭐Français⭐</a> |
     <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_GE.md">Allemand</a> |
     <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_AR.md">Arabe</a> |
     <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_ES.md">Espagnol</a> |
