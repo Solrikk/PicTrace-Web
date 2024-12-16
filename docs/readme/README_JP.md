@@ -2,16 +2,16 @@
 
 <div align="center">
   <h4>
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/README.md">⭐Anglais⭐</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_JP.md">Japonais</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_RU.md">Russe</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_FR.md">Français</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_GE.md">Allemand</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_AR.md">Arabe</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_ES.md">Espagnol</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_KR.md">Coréen</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_TR.md">Turc</a> |
-    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_CN.md">Chinois</a>
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/README.md">英語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_JP.md">⭐日本語⭐</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_RU.md">ロシア語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_FR.md">フランス語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_GE.md">ドイツ語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_AR.md">アラビア語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_ES.md">スペイン語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_KR.md">韓国語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_TR.md">トルコ語</a> |
+    <a href="https://github.com/Solrikk/PicTraceV2/blob/main/docs/readme/README_CN.md">中国語</a>
   </h4>
 </div>
 
