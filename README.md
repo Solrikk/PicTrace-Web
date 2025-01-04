@@ -1,25 +1,25 @@
-![Logo](https://github.com/Solrikk/UTrace/blob/main/assets/images/promo/bee.jpg)
+![Logo](https://github.com/Solrikk/PicTrace-Web/blob/main/assets/images/promo/bee.jpg)
 
 <div align="center">
   <h4>
-    <a href="https://github.com/Solrikk/UTrace/blob/main/README.md">⭐English⭐</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_JP.md">日本語</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_RU.md">Русский</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_FR.md">Français</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_GE.md">Deutsch</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_AR.md">العربية</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_ES.md">Español</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_KR.md">한국어</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_TR.md">Türkçe</a> |
-    <a href="https://github.com/Solrikk/UTrace/blob/main/docs/readme/README_CN.md">中文</a>
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/README.md">⭐English⭐</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_JP.md">日本語</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_RU.md">Русский</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_FR.md">Français</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_GE.md">Deutsch</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_AR.md">العربية</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_ES.md">Español</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_KR.md">한국어</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_TR.md">Türkçe</a> |
+    <a href="https://github.com/Solrikk/PicTrace-Web/blob/main/docs/readme/README_CN.md">中文</a>
   </h4>
 </div>
 
 ---
 
-# UTrace🔍
+# PicTrace-Web🔍
 
-**_UTrace_** is a highly efficient image matching platform that leverages computer vision using **_OpenCV_**, deep learning with **_TensorFlow_** and the **_ResNet50 model_**, asynchronous processing with **_aiohttp_**, and **_Selenium_** for browser automation. UTrace allows users to upload images directly or provide URLs, quickly scanning a vast database to find similar images. Asynchronous processing ensures smooth and fast visual search, enhancing the user experience.
+**_PicTrace-Web_** is a highly efficient image matching platform that leverages computer vision using **_OpenCV_**, deep learning with **_TensorFlow_** and the **_ResNet50 model_**, asynchronous processing with **_aiohttp_**, and **_Selenium_** for browser automation. PicTrace-Web allows users to upload images directly or provide URLs, quickly scanning a vast database to find similar images. Asynchronous processing ensures smooth and fast visual search, enhancing the user experience.
 
 ---
 
@@ -68,4 +68,4 @@
 
 ## Getting Started
 
-_UTrace is a powerful image tracing and comparison tool designed to streamline your development process. Follow these steps to set up your environment and launch the application successfully._
+_PicTrace-Web is a powerful image tracing and comparison tool designed to streamline your development process. Follow these steps to set up your environment and launch the application successfully._
